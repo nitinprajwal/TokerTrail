@@ -4,6 +4,13 @@
 
 The digital asset arena is witnessing an extraordinary transformation, largely due to the emergence of Non-Fungible Tokens (NFTs). These unique digital assets, authenticated by blockchain technology, have redefined ownership, digital collectibles, and investment strategies. Artists, musicians, gamers, collectors, and investors have found new avenues to monetize, showcase, and diversify their digital assets. However, as NFTs rise to the forefront of the digital world, a myriad of challenges and complexities have accompanied their journey. TokenTrail enters the scene as an innovative NFT marketplace, determined to confront these challenges and revolutionize the NFT landscape.
 
+## Images
+![d3bb410a-8105-429c-ba25-273d3229e905](https://github.com/user-attachments/assets/8551a528-fb10-4499-8547-23fcaab0b1fc)
+![b740ff53-dd48-40a0-9277-d855f4322c95](https://github.com/user-attachments/assets/a83b2e96-6f41-4557-ac50-6b9f2ea86241)
+![a4265efd-fa6a-48a3-946b-f705562db6d1](https://github.com/user-attachments/assets/ade77e85-85b7-4e17-9acd-ad60b037fc1e)
+![68754550-d22d-47b9-bfdf-5c429a3d8285](https://github.com/user-attachments/assets/a09c1e32-444a-4054-bd28-daa0a9483f3b)
+![90a96363-d121-4e0f-978e-16d3fea61ff4](https://github.com/user-attachments/assets/de0a4c58-e5b1-4887-8835-0c4ec0a2c936)
+
 ## The NFT Landscape: A World of Opportunities and Challenges
 
 ### Opportunities Abound in the NFT Universe
@@ -36,12 +43,6 @@ To tackle this, we decided to employ a multi-faceted approach:
 
 3. **Distributed Ledger Technology**: We implemented a distributed ledger that would track the movement and ownership of NFTs across different blockchains. This ledger served as a source of truth, ensuring that every NFT's history and ownership were transparent and verifiable.
 
-## Images
-![d3bb410a-8105-429c-ba25-273d3229e905](https://github.com/user-attachments/assets/8551a528-fb10-4499-8547-23fcaab0b1fc)
-![b740ff53-dd48-40a0-9277-d855f4322c95](https://github.com/user-attachments/assets/a83b2e96-6f41-4557-ac50-6b9f2ea86241)
-![a4265efd-fa6a-48a3-946b-f705562db6d1](https://github.com/user-attachments/assets/ade77e85-85b7-4e17-9acd-ad60b037fc1e)
-![68754550-d22d-47b9-bfdf-5c429a3d8285](https://github.com/user-attachments/assets/a09c1e32-444a-4054-bd28-daa0a9483f3b)
-![90a96363-d121-4e0f-978e-16d3fea61ff4](https://github.com/user-attachments/assets/de0a4c58-e5b1-4887-8835-0c4ec0a2c936)
 
 
 ## Hardhat Project Setup
