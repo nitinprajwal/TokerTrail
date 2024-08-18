@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The digital asset arena is witnessing an extraordinary transformation, largely due to the emergence of Non-Fungible Tokens (NFTs). These unique digital assets, authenticated by blockchain technology, have redefined ownership, digital collectibles, and investment strategies. Artists, musicians, gamers, collectors, and investors have found new avenues to monetize, showcase, and diversify their digital assets. However, as NFTs rise to the forefront of the digital world, a myriad of challenges and complexities have accompanied their journey. TokenTrail enters the scene as an innovative NFT marketplace, determined to confront these challenges and revolutionize the NFT landscape.
+The digital asset arena is witnessing an extraordinary transformation, largely due to the emergence of Non-Fungible Tokens (NFTs). These unique digital assets, authenticated by blockchain technology, have redefined ownership, digital collectibles, and investment strategies. Artists, musicians, gamers, collectors, and investors have found new avenues to monetize, showcase, and diversify their digital assets. However, as NFTs rise to the forefront of the digital world, a myriad of challenges and complexities have accompanied their journey. TokenTrail enters the scene as an innovative NFT marketplace, determined to confront these challenges and revolutionize the NFT landscape. 
 
 ## Images
 ![d3bb410a-8105-429c-ba25-273d3229e905](https://github.com/user-attachments/assets/8551a528-fb10-4499-8547-23fcaab0b1fc)
